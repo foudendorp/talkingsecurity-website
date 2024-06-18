@@ -3,13 +3,13 @@ title: 'Episode #35 - Series DevSecOps #05 – How to releasing Software Securel
 subheading: 
 author: Frans Oudendorp
 layout: post
-image: /images/DevSecOps-series-default-picture.png
+image: /images/DevSecOps-series-monitor.png
 categories:
   - Podcast
   - Security
   - DevSecOps
 # banner: /images/DfC-series-episode-2.png
-excerpt_image: /images/DevSecOps-series-default-picture.png
+excerpt_image: /images/DevSecOps-series-monitor.png
 tags: 
 sidebar: []
 ---
@@ -17,7 +17,7 @@ sidebar: []
 ### Talking Security: DevSecOps Series - Episode 5
 
 <div>
-  <img width="600" src="/images/DevSecOps-series-default-picture.png" >
+  <img width="600" src="/images/DevSecOps-series-monitor.png" >
 </div> <br>
 
 We’re excited to announce the release of the latest episode of the Talking Security podcast! In this episode, titled "Releasing Software Securely in a DevSecOps Pipeline," hosts Sander ten Brinke, Pouyan Khabazi, and Frans Oudendorp dive deep into the critical topic of secure software release within a DevSecOps framework.
