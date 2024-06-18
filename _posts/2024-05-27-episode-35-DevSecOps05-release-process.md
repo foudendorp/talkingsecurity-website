@@ -8,7 +8,7 @@ categories:
   - Podcast
   - Security
   - DevSecOps
-banner: /images/DevSecOps-series-monitor.png
+# banner: /images/DevSecOps-series-monitor.png
 excerpt_image: /images/DevSecOps-series-monitor.png
 tags: 
 sidebar: []
@@ -16,13 +16,9 @@ sidebar: []
 
 ### Talking Security: DevSecOps Series - Episode 5
 
-<!-- 
-
 <div>
   <img width="600" src="/images/DevSecOps-series-monitor.png" >
 </div> <br>
-
- -->
 
 We’re excited to announce the release of the latest episode of the Talking Security podcast! In this episode, titled "Releasing Software Securely in a DevSecOps Pipeline," hosts Sander ten Brinke, Pouyan Khabazi, and Frans Oudendorp dive deep into the critical topic of secure software release within a DevSecOps framework.
 
