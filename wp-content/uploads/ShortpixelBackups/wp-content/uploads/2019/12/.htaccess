@@ -1,0 +1,7 @@
+
+# BEGIN ShortPixel
+# The directives (lines) between `BEGIN ShortPixel` and `END ShortPixel` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+Options -Indexes
+# END ShortPixel
