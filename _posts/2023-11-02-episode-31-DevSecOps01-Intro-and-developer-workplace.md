@@ -9,6 +9,7 @@ categories:
   - Security
   - DevSecOps
 # banner: /images/DfC-series-episode-2.png
+excerpt_image: /images/DevSecOps-series-default-picture.png
 tags: 
 sidebar: []
 ---

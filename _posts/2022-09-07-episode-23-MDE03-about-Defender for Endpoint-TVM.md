@@ -8,6 +8,7 @@ categories:
   - Podcast
   - Security
 # banner: /images/Talking-Security-Podcast-banner.png
+excerpt_image: /images/TalkingSecurity-Frans-MDE-indepth.png
 tags: 
 sidebar: []
 ---

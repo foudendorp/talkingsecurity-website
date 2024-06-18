@@ -9,6 +9,7 @@ categories:
   - Security
   - Defender for Cloud
 # banner: /images/DfC-series-episode-1.png
+excerpt_image: /images/DfC-series-episode-1.png
 tags: 
 sidebar: []
 ---

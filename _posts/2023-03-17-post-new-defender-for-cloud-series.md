@@ -9,6 +9,7 @@ categories:
   - Security
   - Defender for Cloud
 # banner: /images/TalkingSecurity-DFC-Guests.png
+excerpt_image: /images/TalkingSecurity-DFC-Guests.png
 tags: 
 sidebar: []
 ---
