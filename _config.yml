@@ -166,9 +166,9 @@ header_pages:
 # Page default value
 # defaults:
 #   home:
-#     heading: ""
-#     subheading: ""
-##    banner: "/images/Logo_Talking-Security-Podcast-2.png"
+#    heading: ""
+#    subheading: ""
+#    banner: "/images/Logo_Talking-Security-Podcast.png"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
