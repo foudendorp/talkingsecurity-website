@@ -7,7 +7,7 @@ image: /images/TalkingSecurity-MVP-Security-Isights.png
 categories:
   - Podcast
   - Security
-  - MVP
+  - MVP Security Insights
 # banner: /images/TalkingSecurity-MVP-Security-Isights.png
 excerpt_image: /images/TalkingSecurity-MVP-Security-Isights.png
 tags: 
