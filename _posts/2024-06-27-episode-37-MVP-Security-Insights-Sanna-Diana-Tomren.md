@@ -7,7 +7,7 @@ image: /images/MVPSI-Sanna-Diana-Tomren.png
 categories:
   - Podcast
   - Security
-  - DevSecOps
+  - MVP Security Insights
 # banner: "/images/Logo_Talking-Security-Podcast.png"
 excerpt_image: /images/MVPSI-Sanna-Diana-Tomren.png
 tags: 
