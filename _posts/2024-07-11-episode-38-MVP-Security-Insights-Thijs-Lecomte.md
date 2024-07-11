@@ -77,7 +77,7 @@ Stay tuned for more episodes, and thank you for joining us on this exciting jour
 
 
 [spotify]: https://open.spotify.com/episode/5i6Is9SUOGBdr3NKmbKVsx
-[apple-podcast]: #
+[apple-podcast]: https://podcasts.apple.com/us/podcast/38-mvp-security-insights-thijs-lecomte/id1653147812?i=1000661868854
 [tunein-podcast]: #
 [twitter]: https://twitter.com/SecurityTalking
 [linkedin]: https://www.linkedin.com/company/talkingsecurity-podcast
