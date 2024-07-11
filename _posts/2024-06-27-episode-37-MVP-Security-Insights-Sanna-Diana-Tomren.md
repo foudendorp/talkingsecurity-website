@@ -78,7 +78,7 @@ Stay tuned for more episodes, and thank you for joining us on this exciting jour
 
 [spotify]: https://open.spotify.com/episode/7hw06gDvH9gicnmsTU1om6?si=T-yARypBTyuxQwHHtN8qJQ
 [apple-podcast]: https://podcasts.apple.com/us/podcast/37-mvp-security-insights-sanna-diana-tomren/id1653147812?i=1000660421713
-[tunein-podcast]: #
+[tunein-podcast]: https://tunein.com/podcasts/Technology-Podcasts/Talking-Security-p1281016/?topicId=406690638
 [twitter]: https://twitter.com/SecurityTalking
 [linkedin]: https://www.linkedin.com/company/talkingsecurity-podcast
 [youtube]: https://www.youtube.com/@TalkingSecurity
