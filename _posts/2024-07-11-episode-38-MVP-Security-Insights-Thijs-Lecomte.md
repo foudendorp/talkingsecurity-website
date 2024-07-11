@@ -54,7 +54,7 @@ You can also watch this episode on Youtube.
 <br>
 
 #### Connect with Thijs
-Interested in learning more or connecting with [Thijs Lecomte][linkedin-thijs]? You can reach out to him via LinkedIn.
+Interested in learning more or connecting with [Thijs Lecomte][linkedin-thijs]? You can reach out to him via LinkedIn or on his [blog][blog-thijs].
 
 #### Join the Conversation
 We’d love to hear your thoughts on this episode. Join the conversation on our social media channels or leave a comment below. How are you implementing advanced cybersecurity measures in your organization? What challenges have you faced, and how did you overcome them? Follow us on [X][twitter] and [LinkedIn][linkedin]. 👋
