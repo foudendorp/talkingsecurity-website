@@ -31,10 +31,8 @@ Join us as Mattias shares his insights into the cybersecurity sector, highlighti
 #### Tune In Now!
 Don't miss out on the wealth of knowledge and expert guidance from Mattias Borg in the third episode of "Security MVP Insights."
 
-
 <iframe src="https://player.rss.com/talking-security/1581531?theme=dark" style="width: 100%; height: 150px;" title="MVP Insights E03 - How Airbrush Boosts Mattias Bor" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"><a href="https://rss.com/podcasts/talking-security/1581531/">MVP Insights E03 - How Airbrush Boosts Mattias Borg</a></iframe>
 <br>
-
 
 TuneIn 👉 [Link][tunein-podcast]
 
@@ -42,13 +40,12 @@ Apple Podcast 👉 [Link][apple-podcast]
 
 Spotify 👉 [Link][spotify]
 
-
 #### View in:
 You can also watch this episode on Youtube.
-
 <br>
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VyIn5PjJ8hg?si=d8izzy9QJ9j1Ub3R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VyIn5PjJ8hg?si=d8izzy9QJ9j1Ub3R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 <br>
 
 #### Connect with Thijs
@@ -66,7 +63,7 @@ Stay tuned for more episodes, and thank you for joining us on this exciting jour
 
 
 [spotify]: https://open.spotify.com/episode/3UsoLPwguq7CFpwU4hz1vL
-[apple-podcast]: #
+[apple-podcast]: https://podcasts.apple.com/us/podcast/mvp-insights-e03-how-airbrush-boosts-mattias-borg-in/id1653147812?i=1000663244971
 [tunein-podcast]: #
 [twitter]: https://twitter.com/SecurityTalking
 [linkedin]: https://www.linkedin.com/company/talkingsecurity-podcast
