@@ -48,7 +48,7 @@ You can also watch this episode on Youtube.
 </center>
 <br>
 
-#### Connect with Thijs
+#### Connect with Mattias
 Interested in learning more or connecting with [Mattias Borg][linkedin-mattias]? You can reach out to him via LinkedIn or on his [blog][blog-mattias].
 
 #### Join the Conversation
@@ -64,7 +64,7 @@ Stay tuned for more episodes, and thank you for joining us on this exciting jour
 
 [spotify]: https://open.spotify.com/episode/3UsoLPwguq7CFpwU4hz1vL
 [apple-podcast]: https://podcasts.apple.com/us/podcast/mvp-insights-e03-how-airbrush-boosts-mattias-borg-in/id1653147812?i=1000663244971
-[tunein-podcast]: #
+[tunein-podcast]: https://tunein.com/podcasts/Technology-Podcasts/Talking-Security-p1281016/?topicId=410427231
 [twitter]: https://twitter.com/SecurityTalking
 [linkedin]: https://www.linkedin.com/company/talkingsecurity-podcast
 [youtube]: https://www.youtube.com/@TalkingSecurity
