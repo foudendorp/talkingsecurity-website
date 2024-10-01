@@ -3,7 +3,7 @@ title: 'Episode #41 - MVP Security Insights #05 – Mona Ghadiri'
 subheading: 
 author: Frans Oudendorp
 layout: post
-image: /images/MVPSI-Mattias-Borg.png
+image: /images/MVPSI-Mona-Ghadiri.png
 categories:
   - Podcast
   - Security
@@ -45,7 +45,7 @@ You can also watch this episode on Youtube.
 </center>
 <br>
 
-#### Connect with Thijs
+#### Connect with Mona
 Interested in learning more or connecting with [Mona Ghadiri][linkedin-mona]? You can reach out to her via LinkedIn or on her socials.
 
 #### Join the Conversation
